@@ -11,6 +11,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Store Management System](https://github.com/acharyasandeep/StoreManagementSystem) - @sauzzon (075BCT083) and @acharyasandeep (075BCT074)
 
 ### Object Oriented Programming in C++ Project
+- [University Timetable Generator- wxWidgets](https://github.com/samD54321/Routine-Generator) - @sgr45 (075BCT071), @samD54321 (075BCT072) 
 - [BaagChal-SFML](https://github.com/Imsanskar/BaagChaal-SFML) - @Imsanskar (bct080) and @Sandippuri (bct077)
 - [C++Genie](https://github.com/ravip5921/CplusplusGenie) - @NikeshDC (BCT052), @ravip5921 (BCT065) and @0000Blaze (BCT066)
 - [The Iron Throne](https://github.com/sandeshpokhrel54/The-Iron-Throne) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088) 
